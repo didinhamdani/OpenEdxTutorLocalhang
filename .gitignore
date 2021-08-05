@@ -1,0 +1,12 @@
+.*.swp
+!.gitignore
+TODO
+__pycache__
+*.egg-info/
+
+/build/
+/dist/
+/release_description.md
+
+# Copied at build-time
+/tutor-openedx/tutoropenedx/__about__.py
